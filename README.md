@@ -6,8 +6,7 @@ organised by the University of Waterloo and sponsored by Google.
 Is is based on the classic MiniMax algorithm. A writeup of the
 bot strategy is [available here](http://www.sifflez.org/misc/tronbot/).
 
-Usage
-=====
+##Usage
 
 Make sure to install Java and Python.
 To pit SimpleTronBot against one of the default bots run the following command:
@@ -44,8 +43,7 @@ java -jar uwaterloo-aichallenge-utils/engine/Tron.jar \
 Player Two Wins!
 ```
 
-License
-=======
+##License
 
 The files under `uwaterloo-aichallenge-utils` and `tron.py` were provided by
 the University of Waterloo Computer Science Club as a starting package for the
